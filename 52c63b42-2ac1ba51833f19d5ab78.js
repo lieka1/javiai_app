@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjaviai=self.webpackChunkjaviai||[]).push([[946],{4091:function(a,c,e){e.d(c,{BGp:function(){return i}});const i=(0,e(961).k)("CheckmarkCircle12Filled","12",["M1 6a5 5 0 1 1 10 0A5 5 0 0 1 1 6Zm7.35-.9a.5.5 0 1 0-.7-.7L5.5 6.54 4.35 5.4a.5.5 0 1 0-.7.7l1.5 1.5c.2.2.5.2.7 0l2.5-2.5Z"])}}]);

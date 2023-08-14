@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjaviai=self.webpackChunkjaviai||[]).push([[612],{4125:function(a,e,i){i.d(e,{ycQ:function(){return n}});const n=(0,i(961).k)("Pause12Filled","12",["M3 2a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H3Zm5 0a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H8Z"])}}]);

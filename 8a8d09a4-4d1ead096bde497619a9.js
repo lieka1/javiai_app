@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjaviai=self.webpackChunkjaviai||[]).push([[70],{254:function(a,i,n){n.d(i,{ffs:function(){return c}});const c=(0,n(961).k)("Bookmark16Filled","16",["M3.78 13.92A.5.5 0 0 1 3 13.5V4.01c0-1.1.9-2 2-2L11 2a2 2 0 0 1 2 2v9.5a.5.5 0 0 1-.78.42L8 11.1l-4.22 2.82Z"])}}]);

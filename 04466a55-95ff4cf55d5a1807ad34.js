@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjaviai=self.webpackChunkjaviai||[]).push([[765],{6152:function(e,i,n){n.d(i,{MW6:function(){return a}});const a=(0,n(961).k)("CircleFilled","1em",["M10 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16Z"])}}]);

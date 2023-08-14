@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjaviai=self.webpackChunkjaviai||[]).push([[921],{3266:function(a,i,n){n.d(i,{dMF:function(){return e}});const e=(0,n(961).k)("Play12Filled","12",["M4.5 2a1 1 0 0 0-1.5.86v6.28a1 1 0 0 0 1.5.87l5.49-3.14a1 1 0 0 0 0-1.74L4.49 2Z"])}}]);
